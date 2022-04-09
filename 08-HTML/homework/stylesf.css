@@ -1,0 +1,52 @@
+body{
+    border: 10ch solid rgb(68, 41, 41);
+    width: 900px;
+    height: 1250px;
+    background-color: rgb(188, 194, 191);
+    padding-left: 100;
+    padding-right: 100;
+    
+   
+}
+.linea{
+    border:  1px solid black;
+    
+}
+
+#nombre{
+   
+    border: 2px solid rgb(29, 23, 21);
+    background-color: rgba(140, 188, 233, 0.692);
+    position: relative;
+    height: 40px;
+    top:40px;
+    text-align: left;
+    padding: 5;
+}
+#datos{
+    position: relative;
+    left : 250px;
+    bottom:95px;
+    
+    
+    width: 400;
+    
+}
+img{
+    border: 5px solid rgb(85, 57, 54);
+    position: relative;
+    top: 80;
+    left : 10px;
+    
+   
+}
+.formacion{
+    position: relative;
+    left : 250px;
+    bottom: 45;
+}
+#pd{
+    background-color: rgba(140, 188, 233, 0.692);
+    border: 2px solid rgb(29, 23, 21);
+    padding: 10px;
+}
